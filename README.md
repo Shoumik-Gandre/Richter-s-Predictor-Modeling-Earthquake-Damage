@@ -2,6 +2,10 @@
 We're trying to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake.
 This is me: [Shoumik](https://www.drivendata.org/users/Shoumik/)
 
+## Solution [[Notebook]](src/Solution.ipynb)
+This notebook contains the current best scoring solution. 
+A score of 0.7539 on drivendata.org    
+
 ## Feature Extraction [[Notebook]](src/Feature%20Extraction.ipynb)
 This answers the following questions:
 1. Geo Dimensionality Reduction: How to Use Neural Network Dimensionality Reduction to get dense embeddings out of Geo Level IDs
